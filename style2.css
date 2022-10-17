@@ -1,0 +1,12 @@
+.item {
+    display: flex;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+.item i {
+    font-size: 30px;
+    height: 30px;
+}
